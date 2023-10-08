@@ -7,4 +7,4 @@ A mod that aims to fix the flaws of modern and beta minecraft by giving more use
 3) edit instance and add minecraft.zip in releases to the jar
 
 # I am too lazy for that
-then go to releases and get the instance in multimcinstance.zip
+then go to the source and download multimcinstance.zip and upload as an instance
