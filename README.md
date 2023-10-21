@@ -19,5 +19,10 @@ A mod that aims to fix the flaws of modern and beta minecraft by giving more use
 * sprinting
 * working clippers
 * Stair fix
-* obsidian boats
-* wool armor
+* cereal
+* carrots
+* potatos
+* stone will be needed for stone tools
+* new title
+* new startup
+* new tooltips with every item in the game
