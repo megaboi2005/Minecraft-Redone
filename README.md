@@ -26,3 +26,8 @@ A mod that aims to fix the flaws of modern and beta minecraft by giving more use
 * new title
 * new startup
 * new tooltips with every item in the game
+
+## 0.0.3
+* humans, trade with them with gold/iron ingots, copper coins, sticks, coal, apples and silk with each item giving different tiers of results
+* humans spawn with chests (not in multiplayer as this system is being worked on in singleplayer)
+* MULTIPLAYER
