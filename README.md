@@ -2,9 +2,17 @@
 A mod that aims to fix the flaws of modern and beta minecraft by giving more uses to otherwise useless items and adding more things to do in the game.
 
 # how to install?
+## I want to do it myself: 
 1) get a launcher - I suggest using multimc, polymc or prismmc.
 2) create an instance under the version of beta 1.7.3
-3) edit instance and add minecraft.zip in releases to the jar
+3) download minecraft.jar in releases
+4) edit instance and either replace or add minecraft.jar 
+
+## I am lazy:
+1) get multimc, polymc or prismmc
+2) download the zip file in the latest releases
+3) import it by clicking `add instance` and then `import zip`
+4) launch game
  
 # List of features so far
 ## 0.0.1
